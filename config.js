@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Drink some water and go to Sleep!',
 
   // Weather
   weatherKey: 'fead2c7d2f528fd27664c416af523ace',
@@ -99,26 +99,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Samples',
+        link: 'https://www.youtube.com/playlist?list=PLWixPtglfof3V1fQ8GZ0XYXNqVeSWwI0T',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Producing',
+        link: 'https://www.youtube.com/playlist?list=PLWixPtglfof2lEqXvnbArRPS3XCBvFq5o',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Mixing',
+        link: 'https://www.youtube.com/playlist?list=PLWixPtglfof3WiU7mccS17nzTlLLTnnfW',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'VSTs',
+        link: 'https://www.youtube.com/playlist?list=PLWixPtglfof3OjVicfwPrOL0LwI69wbDd',
       },
     ],
     secondList: [
       {
-        name: 'Badoo',
-        link: 'https://badoo.com/',
+        name: 'Arch',
+        link: 'https://wiki.archlinux.org/',
       },
       {
         name: '1337x',
