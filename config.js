@@ -32,8 +32,11 @@ const CONFIG = {
   defaultLatitude: '37.775',
   defaultLongitude: '-122.419',
 
+  // Theme
+  theme: latte-mocha,
+
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: false, 
