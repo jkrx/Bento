@@ -33,7 +33,7 @@ const CONFIG = {
   defaultLongitude: '-122.419',
 
   // Theme
-  theme: latte-mocha,
+  // theme: latte-mocha,
 
   // Autochange
   autoChangeTheme: false,
